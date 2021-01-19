@@ -5,4 +5,3 @@ source $HOME/.config/nvim/themes/onedark.vim
 source $HOME/.config/nvim/plug-config/plugin-config.vim
 
 
-
