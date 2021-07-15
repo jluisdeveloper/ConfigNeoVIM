@@ -15,6 +15,9 @@ nmap <leader>q :q<CR>
 nmap <leader>wq :wq<CR>	
 " Guardamos y cerramos el archivo
 
+nmap <leader>y :%y+<CR>
+" Copiar todo un documento
+
 inoremap ( ()<Esc>i
 inoremap { {}<Esc>i
 inoremap [ []<Esc>i
